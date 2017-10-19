@@ -14,7 +14,7 @@ This project archetype is meant to help you quickly get setup to start writing w
 
 ### Default Properties
 Under the `default.properties` file you can specify the default properties for your project:
-- `base_url` - Default base url to be use, e.g. (`https://willowtreeapps.com`)
+- `base_url` - Default base url to be use
 - `browser` - Default browser to be used, i.e. (`chrome`, `safari`, `firefox`, etc.) 
 - `timeout` - Default timeout for each call, in `seconds`.
 - `screenshot_on_fail` - `true` or `false` whether you want to get a screenshot when a test fails 
